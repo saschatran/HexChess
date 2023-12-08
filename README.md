@@ -1,4 +1,4 @@
-<p align="center"><img width=40% src="https://github.com/edizeqiri/HexaChess/assets/89740646/5d8c5928-79f4-470a-a1ad-e1f77cce947c"></p>
+<p align="center"><img width=40% src="HexChess.jpg"></p>
 
 ## Basic Overview
 HexChess is a novel chess variant played on a hexagonal board, offering a fresh twist on the classic game of strategy. Written in Java with Swing for the graphical user interface, it combines traditional chess elements with new tactical possibilities, enhanced by the unique hexagonal geometry of the board.
@@ -11,7 +11,7 @@ HexChess is a novel chess variant played on a hexagonal board, offering a fresh 
 - **Score Tracking**: Keep track of your high scores and improve your strategy.
 
 ## Showcase
-<img width="600" alt="Field" src="https://github.com/edizeqiri/HexaChess/assets/89740646/a716858a-79d3-43fc-a9b3-0e078c675687">
+<img width="600" alt="Field" src="image.png">
 
 
 ## License
