@@ -13,6 +13,10 @@ HexChess is a novel chess variant played on a hexagonal board, offering a fresh 
 ## Showcase
 <img width="600" alt="Field" src="Preview.png">
 
+## How to play
+
+See Manual.pdf
+
 ## About the Team
 
 This project was done in a group of 4 in the course "Programmierprojekt" in the 2nd Semester - Spring 2021.
@@ -20,7 +24,7 @@ The group members consisted of:
 - Sascha Tran
 - Edi Zeqiri
 - Jonas Wyss
-- Raffael Colonello
+- Raffael Colonnello
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
