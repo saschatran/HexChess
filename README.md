@@ -11,10 +11,16 @@ HexChess is a novel chess variant played on a hexagonal board, offering a fresh 
 - **Score Tracking**: Keep track of your high scores and improve your strategy.
 
 ## Showcase
-<img width="600" alt="Field" src="image.png">
+<img width="600" alt="Field" src="Preview.png">
 
+## About the Team
+
+This project was done in a group of 4 in the course "Programmierprojekt" in the 2nd Semester - Spring 2021.
+The group members consisted of:
+- Sascha Tran
+- Edi Zeqiri
+- Jonas Wyss
+- Raffael Colonello
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-It was done in a group of 4 in the course "Programmierprojekt" in my 2nd Semester - 2021
