@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Sascha Tran
+=======
+Raffael
+<<<<<<< HEAD
+Jonas
+=======
+Edi
+>>>>>>> d10cf9dd7000c3848e2f9b921e85f0c3a84b2426
+>>>>>>> ed0577e03addd8badb7c492a53604630a3d437db
