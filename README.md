@@ -15,7 +15,8 @@ HexChess is a novel chess variant played on a hexagonal board, offering a fresh 
 
 ## How to play
 
-See Manual.pdf
+You can find the instruction here: [Manual.pdf](https://github.com/saschatran/HexChess/blob/main/Manual.pdf)
+However, denote that the Manual is only written in German...
 
 ## About the Team
 
